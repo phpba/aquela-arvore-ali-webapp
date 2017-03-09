@@ -18,7 +18,7 @@ Algumas ideias:
 - ...
 
 ### Como Faremos
-- Editor: c9.io
+- Editor/IDE: c9.io integrado ao github
 - Linguagem de Programação: PHP 5.5.9
 - Framework: Lumen 5.2
 - Projetos: [https://github.com/phpba/cidade-verde-webapp/projects]
