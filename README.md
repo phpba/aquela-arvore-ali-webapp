@@ -17,7 +17,14 @@ Algumas ideias:
 ### Quem já contribuiu
 - ...
 
-**Esse projeto está sendo feito pela comunidade e para a comunidade**
+### Como Faremos
+- Editor: c9.io
+- Linguagem de Programação: PHP 5.5.9
+- Framework: Lumen 5.2
+- Projetos: [https://github.com/phpba/cidade-verde-webapp/projects]
+- Licença de Uso: MIT
+
+**Esse projeto está sendo feito pela comunidade e é livre para modificações**
 
 **Utilizaremos, preferencialmente, ferramentas PHP para desenvolver e evoluir competências dos membros da comunidade PHPBA**
 
