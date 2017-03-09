@@ -1,7 +1,7 @@
 {
-    "name": "laravel/lumen",
-    "description": "The Laravel Lumen Framework.",
-    "keywords": ["framework", "laravel", "lumen"],
+    "name": "phpba/projeto-cidade-verde",
+    "description": "Ajudando a população a tornar a cidade mais verde",
+    "keywords": ["phpba", "projeto", "laravel", "lumen"],
     "license": "MIT",
     "type": "project",
     "require": {
