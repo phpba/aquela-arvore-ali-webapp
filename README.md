@@ -1,17 +1,24 @@
-# Aquela Árvore Ali
+# Cidade Verde
 
-**Esse projeto foi feito pela comunidade e para a comunidade**
+Esse projeto foi inspirado no [Trees Near You](http://www.treesnearyou.com/) da cidade de Nova York, mas além de mapear as árvores das áreas ocupadas das cidades pretendemos fornecer ferramentas para auxiliar os cidadãos a tornarem as cidades mais Sustentáveis.
+
+Algumas ideias:
+ * Mapa das regiões verdes;
+ * Mapa das regiões quentes;
+ * Campanhas de reflorestamento;
+ * Entre outras.
+
+### Idealizador:
+- Paulo de Almeida <>
+
+### Colaboradores:
+- Felipe Bastos <felipebastosweb@gmail.com>
+
+### Quem já contribuiu
+- ...
+
+**Esse projeto está sendo feito pela comunidade e para a comunidade**
 
 **Utilizaremos, preferencialmente, ferramentas PHP para desenvolver e evoluir competências dos membros da comunidade PHPBA**
 
 **Sugestões serão bem vindas!**
-
-Esse projeto foi idealizado para mapear as árvores das áreas ocupadas das cidades. Foi inspirado no [Trees Near You](http://www.treesnearyou.com/) que foi lançado para a cidade de Nova York.
-
-O nosso piloto será na cidade de Salvador.
-Pretendemos estar disponíveis para todo o Brasil para que tenhamos um lugar melhor para todos.
-
-Pretendemos catalogar as árvores com suas espécies para que fique fácil a identificação.
-O cadastro da localização das árvores será colaborativo, bem como sua moderação.
-
-Dessa pequena ideia podem surgir outras que não imaginamos e qualquer um pode mandar código, sugestão ou qualquer outra coisa.
