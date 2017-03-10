@@ -15,9 +15,9 @@
       <div class="header clearfix">
         <nav>
           <ul class="nav nav-pills pull-right">
-            <li role="presentation" class="active"><a href="#">Home</a></li>
-            <li role="presentation"><a href="#">About</a></li>
-            <li role="presentation"><a href="#">About</a></li>
+            <li role="presentation" class="active"><a href="#">In&iacute;cio</a></li>
+            <li role="presentation"><a href="#">Sobre N&oacute;s</a></li>
+            <li role="presentation"><a href="#">Equipe</a></li>
             <li role="presentation"><a href="#">About</a></li>
             <li role="presentation"><a href="#">Contact</a></li>
           </ul>
@@ -61,7 +61,7 @@
             <p>Este é um site do <a href="http://www.phpba.com.br" target="_blank">PHPBA</a> 2017 &copy; Todos os direitos reservados.</p>
           </div>
           <div class="col-xs-3">
-            <p>Desenvolvido por <a href="mailto://felipebastosweb@gmail.com">Felipe Bastos</a></p>
+            <p>Desenvolvido por <a href="mailto://felipebastosweb@gmail.com">PHPBA</a></p>
           </div>
         </<div>
       </div>
