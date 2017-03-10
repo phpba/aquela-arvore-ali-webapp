@@ -1,6 +1,7 @@
 # Cidade Verde
 
-Esse projeto foi inspirado no [Trees Near You](http://www.treesnearyou.com/) da cidade de Nova York, mas além de mapear as árvores das áreas ocupadas das cidades pretendemos fornecer ferramentas para auxiliar os cidadãos a tornarem as cidades mais Sustentáveis.
+Esse projeto foi inspirado no [Trees Near You](http://www.treesnearyou.com/) e o [NYC Parks
+New York City Street Tree Map](https://tree-map.nycgovparks.org/) da cidade de Nova York, mas além de mapear as árvores das áreas ocupadas das cidades pretendemos fornecer ferramentas para auxiliar os cidadãos a tornarem as cidades mais Sustentáveis.
 
 Algumas ideias:
  * Mapa das regiões verdes;
